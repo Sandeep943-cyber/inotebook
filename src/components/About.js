@@ -1,8 +1,10 @@
-import React from 'react'
+import React, { useEffect } from 'react'
 
-export const About = () => {
+const About = () => {
   return (
-    <div> About hu m</div>
+    <div> 
+      About hu m 
+    </div>
   )
 }
 
